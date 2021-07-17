@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #50CB93;
+}
+canvas{
+  box-shadow: black 20px 10px 50px;
+}
+h1 {
+  font-size: 5rem;
+}
+.cin{
+  text-align: center;
+}
